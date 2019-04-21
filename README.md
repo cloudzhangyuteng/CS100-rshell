@@ -26,7 +26,7 @@ $ ./test
 Note: Most bash commands are actually executables located in PATH directories such as /bin, /usr/bin/ (e.g. ls), but some commands are built-in to bash (e.g. cd). So while the ls command "just work" in our shell when using execvp, the cd command won't and isn't required to for the assignment. Only commands that can be executed through a PATH directory need to be accounted for in this assignment.
 
 # UML Diagram:
-![UML Diagram of Assignment1](https://github.com/cs100/assignment-cs-100-yuteng-dmitri/blob/master/images/Assignment1Diagram.png?raw=true)
+![UML Diagram of Assignment1](https://github.com/cloudzhangyuteng/CS100-rshell/blob/master/images/Assignment1Diagram.png?raw=true)
 
 # Classes:
 #### We decided that we are going to use 4 classes to build our shell. 
