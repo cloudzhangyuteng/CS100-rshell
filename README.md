@@ -11,9 +11,9 @@ We added the test command to the rshell we  have developed as well as its symbol
 
 To run the program:
 ```
-$ git clone https://github.com/cs100/assignment-cs-100-yuteng-dmitri.git
+$ git clone https://github.com/cloudzhangyuteng/CS100-rshell.git
 $ git submodule add https://github.com/google/googletest.git
-$ cmake3 .
+$ cmake .
 $ make
 $ ./rshell
 ```
