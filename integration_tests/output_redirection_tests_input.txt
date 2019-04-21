@@ -1,0 +1,4 @@
+echo abcd > output.txt
+echo efgh >> output.txt
+cat output.txt
+exit

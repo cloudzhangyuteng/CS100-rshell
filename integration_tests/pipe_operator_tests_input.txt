@@ -1,0 +1,4 @@
+cat pipein.txt
+cat < pipein.txt | tr abcd ABCD > pipeout.txt
+cat pipeout.txt
+exit
